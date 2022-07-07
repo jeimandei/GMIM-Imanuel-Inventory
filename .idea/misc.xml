@@ -6,6 +6,10 @@
         <entry key="app/src/main/res/drawable-v24/item_checked.xml" value="0.1875" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.25951261222744765" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2479692176143651" />
+        <entry key="app/src/main/res/layout/fragment_add_inventory.xml" value="0.2539546814878153" />
+        <entry key="app/src/main/res/layout/fragment_detail_inventory.xml" value="0.2654980761008978" />
+        <entry key="app/src/main/res/layout/fragment_inventory_list.xml" value="0.2654980761008978" />
+        <entry key="app/src/main/res/layout/listview_item_inventory.xml" value="0.26464300983326206" />
         <entry key="app/src/main/res/layout/navbar_header.xml" value="0.2621359223300971" />
         <entry key="app/src/main/res/menu/navbar_menu.xml" value="0.2654980761008978" />
       </map>

@@ -2,7 +2,7 @@ package com.example.gmimimanuelinventory.Configuration;
 
 public class InventoryConfig {
     //Public IP
-    public static final String URL = "https://gmimimanueljakarta.co.id/";
+    public static final String URL = "https://gmimimanueljakarta.co.id/API_InventoryGMIM/";
 
     //Get All Inventory
     public static final String URL_GET_ALL_INVENTORY = URL + "xxx";
@@ -16,6 +16,7 @@ public class InventoryConfig {
 
     //KEY & VALUE JSON on KDI
 
+    public static final String TAG_JSON_ARRAY = "data";
     public static final String KEY_INV_ID = "id_inv";
     public static final String KEY_INV_QRCODE = "qr_inv";
     public static final String KEY_INV_NAME = "name_inv";
