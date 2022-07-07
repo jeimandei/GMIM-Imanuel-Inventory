@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/group_menu"
+        android:checkableBehavior="single"        >
+        <item
+            android:id="@+id/nb_admin_menu"
+            android:icon="@drawable/ic_baseline_admin_panel_settings_24"
+            android:title="Administrator" />
+        <item
+            android:id="@+id/nb_kdi_inventory"
+            android:icon="@drawable/ic_baseline_computer_24"
+            android:title="Inventory KDI" />
+        <item
+            android:id="@+id/nb_muger_inventory"
+            android:icon="@drawable/ic_baseline_music_note_24"
+            android:title="Inventory Muger" />
+    </group>
+</menu>
