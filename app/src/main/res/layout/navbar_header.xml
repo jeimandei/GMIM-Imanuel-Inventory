@@ -32,7 +32,7 @@
             android:paddingLeft="15dp">
 
             <TextView
-                android:id="@+id/nav_name"
+                android:id="@+id/nb_username"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingTop="1dp"
@@ -45,7 +45,7 @@
                 android:textAllCaps="true"/>
 
             <TextView
-                android:id="@+id/nav_role"
+                android:id="@+id/nb_komisi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="KOMISI"
